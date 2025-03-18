@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.823e9862.css",
+    "main.js": "/static/js/main.a1fe1def.js",
+    "static/media/push-unscreen.gif": "/static/media/push-unscreen.5e2c1bf30435266a1394.gif",
+    "static/media/loader.gif": "/static/media/loader.e1658f1b84de3a1fe498.gif",
+    "static/media/Alipaylogo2020.png": "/static/media/Alipaylogo2020.a481fe352b7ad91daebe.png",
+    "static/media/logo.png": "/static/media/logo.afe6057d6ad5699914e7.png",
+    "static/media/fff.avif": "/static/media/fff.e611f15ce196e1067333.avif",
+    "static/media/13_Alipay_logo_logos-512.webp": "/static/media/13_Alipay_logo_logos-512.0175b529630ed43d00fe.webp",
+    "static/media/LOGO_2.webp": "/static/media/LOGO_2.278c4ed39871e93ce346.webp",
+    "static/media/iconprofile_.avif": "/static/media/iconprofile_.434d470d8b158f56e68a.avif",
+    "index.html": "/index.html",
+    "static/media/banner_rk.webp": "/static/media/banner_rk.5e19bce7752c3e2d1f0a.webp",
+    "main.823e9862.css.map": "/static/css/main.823e9862.css.map",
+    "main.a1fe1def.js.map": "/static/js/main.a1fe1def.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.823e9862.css",
+    "static/js/main.a1fe1def.js"
+  ]
+}
